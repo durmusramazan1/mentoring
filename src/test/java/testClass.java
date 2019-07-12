@@ -8,6 +8,8 @@ public class testClass {
         System.out.println("Some text is here");
 
         System.out.println("Just text");
+        
+        System.out.print("");
     }
 
 
